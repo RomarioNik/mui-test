@@ -1,0 +1,19 @@
+.selectTheme {
+  color: black;
+}
+
+.themeActive {
+  color: green;
+}
+
+.radio {
+  appearance: none;
+  -webkit-appearance: none;
+  color: red;
+}
+
+/* input[type='radio'] {
+  display: none;
+  appearance: none;
+  -webkit-appearance: none;
+} */

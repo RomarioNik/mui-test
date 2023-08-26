@@ -1,0 +1,44 @@
+.wrapper {
+  /* background-color: blue; */
+}
+
+.selectButton {
+  width: 68px;
+  height: 21px;
+  color: black;
+  text-transform: none;
+}
+
+.selectList div {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.selectList ul {
+  width: 100px;
+  /* height: 21px; */
+  border-radius: 8px;
+  border: 1px solid #bedbb0;
+}
+
+.selectButton:hover {
+  background-color: transparent;
+}
+
+.selectItem {
+  color: black;
+}
+
+.selectItem:hover {
+  color: green;
+  background-color: transparent;
+}
+
+.selectItemActive {
+  color: green;
+}
+
+.selectItemActive:hover {
+  color: green;
+  background-color: transparent;
+}
