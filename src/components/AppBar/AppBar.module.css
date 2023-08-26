@@ -1,0 +1,16 @@
+.barContainer {
+  width: 100%;
+}
+
+.barHeader {
+  background-color: brown;
+}
+
+.barUserName {
+  width: 100%;
+  text-align: right;
+}
+
+.barMenuButton {
+  color: yellow;
+}
