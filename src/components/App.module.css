@@ -25,3 +25,13 @@
 .slider {
   color: red;
 }
+
+.radio {
+  /* fill: blue; */
+  /* stroke: red; */
+}
+
+.radio:first-child {
+  /* fill: blue; */
+  /* stroke: red; */
+}

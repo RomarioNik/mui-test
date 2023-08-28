@@ -1,5 +1,10 @@
 @import-normalize; /* bring in normalize.css styles */
 
+:root {
+  --radio-inside: #8fa1d0;
+  --radio-outside: #8fa1d0;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

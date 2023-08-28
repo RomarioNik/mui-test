@@ -4,6 +4,7 @@ import css from './App.module.css';
 // import Slider from '@mui/material/Slider';
 import MenuAppBar from './AppBar/AppBar';
 import SelectTheme from './SelectTheme/SelectTheme';
+import { ReactComponent as RadioChecked } from '../img/radio-button.svg';
 // import MenuPopupState from './PopupState/PopupSate';
 // import RadioTheme from './RadioTheme/RadioTheme';
 
@@ -17,6 +18,7 @@ export const App = () => {
         <Button variant="contained" className={css.buttonApp}>
           Hello world
         </Button>
+        <RadioChecked className={css.radio} />
         {/* <Slider defaultValue={30} />
         <Slider defaultValue={30} className={css.slider} /> */}
         {/* <MenuPopupState /> */}
