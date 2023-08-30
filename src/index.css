@@ -1,8 +1,8 @@
 @import-normalize; /* bring in normalize.css styles */
 
 :root {
-  --radio-inside: #8fa1d0;
-  --radio-outside: #8fa1d0;
+  /* --radio-inside: #8fa1d0;
+  --radio-outside: #8fa1d0; */
 }
 
 body {

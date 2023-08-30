@@ -27,11 +27,6 @@
 }
 
 .radio {
-  /* fill: blue; */
-  /* stroke: red; */
-}
-
-.radio:first-child {
-  /* fill: blue; */
-  /* stroke: red; */
+  --radio-inside: #8fa1d0;
+  --radio-outside: #8fa1d0;
 }
