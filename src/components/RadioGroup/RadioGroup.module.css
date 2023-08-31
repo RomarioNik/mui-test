@@ -7,7 +7,7 @@
   appearance: none;
 }
 
-.input:checked + svg {
+.input:checked + .icon {
   stroke: rgba(22, 22, 22, 0.5);
 }
 
