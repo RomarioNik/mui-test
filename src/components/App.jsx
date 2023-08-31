@@ -5,6 +5,7 @@ import css from './App.module.css';
 import MenuAppBar from './AppBar/AppBar';
 import SelectTheme from './SelectTheme/SelectTheme';
 import { ReactComponent as RadioChecked } from '../img/radio-button.svg';
+import RadioGroup from './RadioGroup/RadioGroup';
 // import MenuPopupState from './PopupState/PopupSate';
 // import RadioTheme from './RadioTheme/RadioTheme';
 
@@ -23,6 +24,7 @@ export const App = () => {
         <Slider defaultValue={30} className={css.slider} /> */}
         {/* <MenuPopupState /> */}
         <p>React homework template</p>
+        <RadioGroup />
       </div>
     </StyledEngineProvider>
   );

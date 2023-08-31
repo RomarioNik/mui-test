@@ -1,0 +1,17 @@
+.radio {
+  display: flex;
+  gap: 10px;
+}
+
+.input {
+  appearance: none;
+}
+
+.input:checked + svg {
+  stroke: rgba(22, 22, 22, 0.5);
+}
+
+.icon {
+  fill: transparent;
+  stroke: #161616;
+}

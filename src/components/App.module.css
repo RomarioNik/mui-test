@@ -27,6 +27,6 @@
 }
 
 .radio {
-  --radio-inside: #8fa1d0;
-  --radio-outside: #8fa1d0;
+  --radio-inside: red;
+  --radio-outside: blue;
 }
