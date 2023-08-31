@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/mui-test/static/css/main.4070fd79.css",
-    "main.js": "/mui-test/static/js/main.d1bb4616.js",
+    "main.css": "/mui-test/static/css/main.2b8a412e.css",
+    "main.js": "/mui-test/static/js/main.a0d34494.js",
+    "static/media/sprite-icon.svg": "/mui-test/static/media/sprite-icon.7246858f4a3c9290896680051c848f1b.svg",
     "index.html": "/mui-test/index.html",
     "static/media/radio-button.svg": "/mui-test/static/media/radio-button.e0648407b3d427414d611f9ed8ee6d2e.svg",
-    "main.4070fd79.css.map": "/mui-test/static/css/main.4070fd79.css.map",
-    "main.d1bb4616.js.map": "/mui-test/static/js/main.d1bb4616.js.map"
+    "main.2b8a412e.css.map": "/mui-test/static/css/main.2b8a412e.css.map",
+    "main.a0d34494.js.map": "/mui-test/static/js/main.a0d34494.js.map"
   },
   "entrypoints": [
-    "static/css/main.4070fd79.css",
-    "static/js/main.d1bb4616.js"
+    "static/css/main.2b8a412e.css",
+    "static/js/main.a0d34494.js"
   ]
 }
