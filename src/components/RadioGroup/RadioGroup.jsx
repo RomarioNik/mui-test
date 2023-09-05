@@ -5,7 +5,7 @@ import sprite from '../../img/sprite-icon.svg';
 const RadioGroup = () => {
   const [topping, setTopping] = useState('star');
 
-  console.log(topping);
+  // console.log(topping);
 
   const onOptionChange = e => {
     setTopping(e.target.value);

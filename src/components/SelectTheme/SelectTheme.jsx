@@ -30,7 +30,7 @@ const SelectTheme = () => {
     handleClose();
   };
 
-  console.log(theme);
+  // console.log(theme);
 
   return (
     <div className={css.wrapper}>
