@@ -21,7 +21,7 @@ const InputFile = () => {
   return (
     <div>
       <div className={css.thumb}>
-        <img className={css.pic} src={file.data} alt="avatar" />
+        <img className={css.pic} src={file?.data} alt="avatar" />
       </div>
       <input
         type="file"
